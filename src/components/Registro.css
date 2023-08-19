@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    background-color:ivory;
+    border-radius: 30px;
+    color:dimgrey;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    
+}
+.fa-facebook, .fa-github, .fa-linkedin-in{
+    font-size: 30px;
+    padding: 10px;
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    border: solid 1px rgb(87, 211, 233);
+    border-radius: 100px;
+}
+
+.foormulario{
+    margin: 30px;
+    padding: 30px;
+}
+
